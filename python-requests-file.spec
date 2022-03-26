@@ -6,7 +6,7 @@
 Summary:	File transport adapter for Requests
 Name:		python-%{module}
 Version:	1.5.1
-Release:	4
+Release:	5
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/requests-file/
